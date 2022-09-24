@@ -2,7 +2,7 @@
 - 👀 I’m interested in development
 - 🌱 I’m currently learning android development 
 - 💞️ I’m looking to collaborate on any native android projects
-- 📫 To reach me mail at anuragpandey87187@gmail.com
+- 📫 To reach me mail at anuragpandey01@proton.me
 
 <!---
 Anurag-kun/Anurag-kun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
