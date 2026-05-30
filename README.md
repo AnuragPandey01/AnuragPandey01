@@ -3,9 +3,7 @@
 [![GitHub](https://www.shieldcn.dev/badge/GitHub-%40anuragpandey01-181717.svg?logo=github&variant=branded&size=sm)](https://github.com/anuragpandey01) [![LinkedIn](https://www.shieldcn.dev/badge/LinkedIn-%40https-0A66C2.svg?logo=linkedin&variant=branded&size=sm)](https://linkedin.com/in/https)
 
 [![GitHub Followers](https://www.shieldcn.dev/github/followers/anuragpandey01.svg?variant=secondary&size=sm)](https://github.com/anuragpandey01?tab=followers) [![GitHub Stars](https://www.shieldcn.dev/github/user-stars/anuragpandey01.svg?variant=secondary&size=sm)](https://github.com/anuragpandey01?tab=repositories) [![Public Repos](https://www.shieldcn.dev/badge/Repos-50-2563eb.svg?logo=github&variant=secondary&size=sm)](https://github.com/anuragpandey01?tab=repositories)
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anurag-pandey-643514263/) 
+ 
 
 ## 🛠️ Skills & Technologies
 
